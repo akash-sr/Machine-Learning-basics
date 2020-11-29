@@ -1,0 +1,1 @@
+Basic Linear Regression model that predicts "chance" of being admitted to a University based on: GRE score, TOEFL score, University rating, SOP, LOR, Research, etc.
